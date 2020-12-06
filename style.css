@@ -1,0 +1,50 @@
+.head{
+      
+    background-color:peachpuff;
+    border:solid;
+     }
+  
+     .note{
+       background-color:aqua;
+       
+     }
+  
+  
+  .camel {
+     display: flex;  
+    flex-wrap:flex;
+    justify-content: space-evenly
+  }
+  
+  
+  .chameleon { 
+    display: flex;  
+    flex-wrap:flex;
+    justify-content: space-evenly
+  }
+  
+  .cicada {
+     display: flex;  
+    flex-wrap:flex;
+    justify-content: space-evenly
+  }
+  
+  .panda {
+    display: flex;  
+    flex-wrap:flex;
+    justify-content: space-evenly
+  }
+  
+  .pigeon {
+     display: flex;  
+    flex-wrap:flex;
+    justify-content: space-evenly
+  }
+  
+  .teddy {
+    display: flex;  
+    flex-wrap:flex;
+    justify-content: space-evenly
+  }
+  
+  
